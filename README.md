@@ -4,6 +4,8 @@ Shortening Service is a simple RESTful API that allows users to shorten long URL
 
 This API provides endpoints to create, retrieve, update and delete short URLs
 
+Project based on <https://roadmap.sh/projects/url-shortening-service> challenge
+
 ## How to Run the Project
 
 Requirements
